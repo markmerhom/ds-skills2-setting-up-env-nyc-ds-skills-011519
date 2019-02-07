@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="1" failures="0" name="pytest" skips="0" tests="1" time="0.455"><testcase classname="" file="pytests/test_index.py" name="pytests.test_index" time="0"><error message="collection failure">ImportError while importing test module &apos;/home/active-flow-5272/ds-skills2-setting-up-env-nyc-ds-skills-011519/pytests/test_index.py&apos;.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+pytests/test_index.py:2: in &lt;module&gt;
+    from ipynb.fs.full.index import x
+E   ImportError: cannot import name &apos;x&apos;</error></testcase></testsuite>
